@@ -1,0 +1,3 @@
+c:\mtos\base\arch\arch.h
+c:\mtos\base\arch\arch.hxx
+c:\mtos\base\arch\x86\apic\apic.c
